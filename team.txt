@@ -1,0 +1,7 @@
+Hello Everyone
+Team Name --> "Palindrome"
+Team member-> 1)Akash Kumar Gupta
+              2)Vedprakash Paswan
+              3)Vaibhav Vinod Bedarkar
+              4)Amit Singh
+              5)Aditya Sharma
