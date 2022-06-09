@@ -13,11 +13,11 @@
             width: 300px;
             height: 400px;
             flex-direction: column;
-            justify-content: center;
             align-items: center;
             box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
             background-color: #48c9b0;
             color: white;
+            margin-top: 5%;
         }
 
         div>h4 {
@@ -34,12 +34,16 @@
             border: transparent;
             color: gray;
             font-size: 12px;
+            padding-left: 5px;
         }
 
-        div>input:last-child,
-        :nth-child(5) {
+        div>button{
             background-color: #17a589;
             color: white;
+            width: 200px;
+            height: 40px;
+            margin:5px 10px ;
+            border: 2px solid transparent;
         }
     </style>
 
@@ -51,8 +55,8 @@
         <input type="text" placeholder="Full name">
         <input type="email" placeholder="Email">
         <input type="text" placeholder="Organization">
-        <input type="submit" placeholder="SIGN UP">
-        <input type="reset" placeholder="RETURN">
+        <button>SIGN UP</button>
+        <button>RETURN</button>
     </div>
 
 </body>
